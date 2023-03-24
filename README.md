@@ -34,7 +34,6 @@
 
 > This is the first html and css project of the first block in which linters are integrated.
 > This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
-> This project doesn't require any complex coding. The goal here is to master all of the tools and best practices that are used in a professional development environment.
 
 
 **[Hello Microverse]** is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
